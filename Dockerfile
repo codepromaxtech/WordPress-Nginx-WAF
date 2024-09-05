@@ -1,4 +1,4 @@
-# Use the pre-built NGINX WAF image as the base
+## Use the pre-built NGINX WAF image as the base
 FROM codepromax24/nginx-waf
 
 # Set working directory
